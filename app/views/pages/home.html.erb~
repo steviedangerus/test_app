@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test App | Home</title>
+  </head>
+  <body>
+    <h1>Sample App</h1>
+    <p>
+      This is the home page for
+      <a href="http://Thormetrics.com/">Thormetrics.com</a>
+      test application.
+    </p>
+  </body>
+</html>
+
